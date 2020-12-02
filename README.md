@@ -1,3 +1,3 @@
 # Hello-world
 My first Repo
-Todinhis is my Repository (:happy Coding
+This is my Repository (:happy Coding
